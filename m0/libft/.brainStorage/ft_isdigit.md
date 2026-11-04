@@ -1,6 +1,6 @@
 # ft_isdigit
 *mhidani - 42 São Paulo*<br>
-*Wednesday, 24 July 2024 - São Paulo, Brazil*<br>
+*Thursday, 24 July 2025 - São Paulo, Brazil*<br>
 
 Checks whether a specific character is a numeric digit from `0` to `9`. It is a reimplementation of the official `isdigit` function from the standard library `ctype.h`.
 

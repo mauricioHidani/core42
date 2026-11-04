@@ -1,6 +1,6 @@
 # ft_isalnum
 *mhidani - 42 São Paulo*<br>
-*Wednesday, 24 July 2024 - São Paulo, Brazil*<br>
+*Thursday, 24 July 2025 - São Paulo, Brazil*<br>
 
 Checks whether a specific character is alphanumeric—that is, whether it is a letter (uppercase or lowercase) or a numeric digit. It is a reimplementation of the official `isalnum` function from the standard library `ctype.h`.
 
