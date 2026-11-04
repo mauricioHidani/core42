@@ -1,0 +1,11 @@
+# Directories
+.vscode/
+.ignore/
+
+# Files
+*.out
+*.exe
+*.a
+*.log
+*.test
+
