@@ -15,3 +15,4 @@
 - [ft_strlcpy](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strlcpy.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strlcpy.md))
 - [ft_strlcat](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strlcat.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strlcat.md))
 - [ft_toupper](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_toupper.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_toupper.md))
+- [ft_tolower](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_tolower.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_tolower.md))
