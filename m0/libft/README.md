@@ -13,3 +13,4 @@
 - [ft_memcpy](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memcpy.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memcpy.md))
 - [ft_memmove](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memmove.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memmove.md))
 - [ft_strlcpy](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strlcpy.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strlcpy.md))
+- [ft_strlcat](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strlcat.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strlcat.md))
