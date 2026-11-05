@@ -18,4 +18,7 @@
 - [ft_tolower](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_tolower.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_tolower.md))
 - [ft_strchr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strchr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strchr.md))
 - [ft_strrchr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strrchr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strrchr.md))
-- [ft_strncmp](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strncmp.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strncmp.md))
+- [ft_strncmp](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strncmp.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/
+m0/libft/.brainStorage/ft_strncmp.md))
+- [ft_memchr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memchr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/
+m0/libft/.brainStorage/ft_memchr.md))
