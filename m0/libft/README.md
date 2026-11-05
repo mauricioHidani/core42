@@ -9,3 +9,4 @@
 - [ft_isprint](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_isprint.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_isprint.md))
 - [ft_strlen](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strlen.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strlen.md))
 - [ft_memset](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memset.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memset.md))
+- [ft_bzero](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_bzero.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_bzero.md))
