@@ -22,3 +22,4 @@
 - [ft_memchr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memchr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memchr.md))
 - [ft_memcmp](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memcmp.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memcmp.md))
 - [ft_strnstr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strnstr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strnstr.md))
+- [ft_atoi](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_atoi.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_atoi.md))
