@@ -11,3 +11,4 @@
 - [ft_memset](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memset.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memset.md))
 - [ft_bzero](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_bzero.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_bzero.md))
 - [ft_memcpy](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memcpy.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memcpy.md))
+- [ft_memmove](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_memmove.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_memmove.md))
