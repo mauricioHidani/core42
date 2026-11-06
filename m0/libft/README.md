@@ -25,3 +25,4 @@
 - [ft_atoi](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_atoi.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_atoi.md))
 - [ft_calloc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_calloc.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_calloc.md))
 - [ft_substr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_substr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_substr.md))
+- [ft_strjoin](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strjoin.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strjoin.md))
