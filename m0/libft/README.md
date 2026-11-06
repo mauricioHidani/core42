@@ -27,3 +27,4 @@
 - [ft_substr](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_substr.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_substr.md))
 - [ft_strjoin](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strjoin.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strjoin.md))
 - [ft_strtrim](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_strtrim.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_strtrim.md))
+- [ft_split](https://github.com/mauricioHidani/core42/blob/master/m0/libft/ft_split.c) ([doc](https://github.com/mauricioHidani/core42/blob/master/m0/libft/.brainStorage/ft_split.md))
