@@ -1,3 +1,4 @@
+# ft_strtrim
 *mhidani - 42 São Paulo*<br>
 *Thursday, 24 July 2025 - São Paulo, Brazil*<br>
 
